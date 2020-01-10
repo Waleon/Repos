@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.waleon.ifw</Name>
+  <DisplayName>QVlcApp</DisplayName>
+  <Description>本软件由 Waleon 制作，欢迎关注公众号【高效程序员】，支持任何技术交流。</Description>
+  <Version>2.0.0</Version>
+  <ReleaseDate>2020-01-10</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="184503761" CompressedSize="47690088" OS="Any"/>
+  <DownloadableArchives>bin.7z,doc.7z,etc.7z,license.7z,script.7z</DownloadableArchives>
+  <SHA1>016279130f4ef764a85109f3f3891674ac0fe038</SHA1>
+ </PackageUpdate>
+</Updates>
